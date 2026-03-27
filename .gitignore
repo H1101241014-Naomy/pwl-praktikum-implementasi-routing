@@ -1,0 +1,20 @@
+# Node modules di semua folder
+**/node_modules/
+.pnpm-store/
+bun.lockb
+
+# Build output
+dist/
+build/
+.out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
